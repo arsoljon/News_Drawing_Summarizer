@@ -6,7 +6,7 @@ End result resembles a seamless collaboration of random drawings depicting the s
 
 ## Basic Functionailty
 
-**Goal 1.1** : Get the tldr; of a article. 
+**Goal 1.1** : Get the TLDR; of a article. 
 
 **Goal 1.2** : Get the keywords of the tldr;
 
@@ -20,14 +20,14 @@ End result resembles a seamless collaboration of random drawings depicting the s
 
 ## Type of Data
 
-**Tools Required** : Article extracter or article database, Bias measurer, tldr summarizer.   
+**Tools Required** : Article extracter or article database, Bias measurer, TLDR summarizer.   
 **Goal 1.1** : Equal amount of biased and unbiased articles.
 
 **Goal 1.2** : 
 
 ## Machine Learning Functionality
 
-**Goal 1.1** : 
+**Goal 1.1** : Creating a drawing of entire scenario based of TLDR keywords. 
 
 ## Helpful info
 Data set of random doodles: https://github.com/googlecreativelab/quickdraw-dataset 
