@@ -18,7 +18,13 @@ End result resembles a seamless collaboration of random drawings depicting the s
 
 **Hidden Implication**  : This may result in a form of click bait. Eerily similar to ad techniques that fish for clicks. 
 
-## Machine Learning Goal
+## Type of Data
+
+**Goal 1.1** : 
+
+## Machine Learning Functionality
+
+**Goal 1.1** : 
 
 ## Helpful info
 Data set of random doodles: https://github.com/googlecreativelab/quickdraw-dataset 
