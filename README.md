@@ -20,7 +20,10 @@ End result resembles a seamless collaboration of random drawings depicting the s
 
 ## Type of Data
 
-**Goal 1.1** : 
+**Tools Required** : Article extracter or article database, Bias measurer, tldr summarizer.   
+**Goal 1.1** : Equal amount of biased and unbiased articles.
+
+**Goal 1.2** : 
 
 ## Machine Learning Functionality
 
