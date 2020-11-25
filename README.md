@@ -20,7 +20,7 @@ End result resembles a seamless collaboration of random drawings depicting the s
 
 ## Machine Learning Goal
 
-**Helpful info**
+## Helpful info
 Data set of random doodles: https://github.com/googlecreativelab/quickdraw-dataset 
 
 Top 50 News Sites: https://libguides.wlu.edu/c.php?g=357505&p=2412837 
