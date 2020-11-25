@@ -1,7 +1,6 @@
 # News_Drawing_Summarizer
-
-**Idea**
-## Draw the TLDR Version of any Article.
+## Idea
+**Draw the TLDR Version of any Article**
 End result resembles a seamless collaboration of random drawings depicting the summary of an article or topic. My vision is to have many drawings melded into one page. Avoiding satirical or biased representation by using machine learning to generalize the keywords. My motivation stems from the claims of fake news or biased media negatively influencing people. Hopefully, a "neutral" visual representation can be shown? A major result would be to create a machine learning tool that creates a unbiased interpretation of a controversial topic. However, if the data being fed is biased in itself, then the result would be biased. To combat this, a type of measurement for bias should be used. Using existing tools of categorizing a source as reliable or not could be helpful. 
 
 ## Basic Functionailty
