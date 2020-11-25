@@ -39,3 +39,7 @@ Top 100 USA News Sites: https://blog.feedspot.com/usa_news_websites/
 Liberal News: https://www.kadaza.com/liberal-news
 
 Conservative News: https://www.kadaza.com/conservative-news
+
+### Machine Learning 
+-  Fact Extraction and Verification (FEVER) https://www.fastcompany.com/90417625/machine-learning-isnt-effective-at-identifying-fake-news
+- https://www.fastcompany.com/40536485/now-is-the-time-to-act-to-stop-bias-in-ai
