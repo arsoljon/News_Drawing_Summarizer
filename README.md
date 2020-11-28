@@ -43,3 +43,7 @@ Conservative News: https://www.kadaza.com/conservative-news
 ### Machine Learning 
 -  Fact Extraction and Verification (FEVER) https://www.fastcompany.com/90417625/machine-learning-isnt-effective-at-identifying-fake-news
 - https://www.fastcompany.com/40536485/now-is-the-time-to-act-to-stop-bias-in-ai
+
+### Definitions
+- MEME : an idea, behavior, style, or usage that spreads from person to person within a culture
+-- We will deduce the keywords using this def of a meme. 
